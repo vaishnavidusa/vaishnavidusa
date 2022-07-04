@@ -1,0 +1,50 @@
+
+body{
+   background-image:url('https://cdn.pixabay.com/photo/2015/10/30/18/04/banner-1014539__340.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh; 
+    background-color: linear-gradient(135deg,rgb(129, 129, 217),rgb(81, 81, 194));  
+    text-decoration-color: red; 
+    padding:0px;
+    margin: 0px;
+    
+}
+form{
+    background-attachment: fixed;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    color:red;
+    background-attachment: fixed;
+}
+
+h3{
+    border-radius:5px;
+    box-sizing: border-box;
+    background:linear-gradient(135deg,#c743b5,#9046ad)
+    
+    
+}
+.a{
+    padding:20px ;
+    position: absolute;
+    top: 30%;
+    left:55%;
+    border: 1px solid black;
+    background-attachment: fixed;
+    background-color:rgb(144, 248, 248);
+}
+.b input:hover{
+    background-color: blue;
+   transition:3sec;
+   border-radius: 3cm;
+
+
+}
+.user{
+    padding:5px;
+}
+
